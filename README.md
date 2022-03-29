@@ -1,8 +1,6 @@
-# Options-available-in-different-fields-related-to-language-selection- <br />
-This repo contains different options available in terms of the language selection in various domain of the technology.<br />
-Software Development: <br />
-  Web Development: <br />
-    Back-end:<br />
+Software Development:  <br />
+  Web Development:  <br />
+    Back-end: <br />
       - Express (JavaScript) <br />
       - Flask (Python) <br />
       - Django (Python) <br />
@@ -10,7 +8,7 @@ Software Development: <br />
       - Serverless <br />
       - Spring Boot (Java /Kotlin/Groovy) <br />
       - Laravel (PHP) <br />
-    Front-end: <br />
+    Front-end:  <br />
       - Vanilla (HTML+CSS+JavaScript) <br />
       - React <br />
       - Vue <br />
@@ -18,7 +16,7 @@ Software Development: <br />
       - Ember <br />
       - Angular <br />
       - Vite <br />
- Mobile App Development:<br />
+  Mobile App Development: <br />
     Solo Platform: <br />
       - Java (Android) <br />
       - Swift (iOS) <br />
@@ -93,3 +91,13 @@ Machine Learning: <br />
   - Dask <br />
   - MATLAB <br />
   - Octave <br />
+Internet of Things: <br />
+  - NodeMCU <br />
+  - Arduino <br />
+  - Raspberry Pi <br />
+  - C/C++ <br />
+  - Gobot <br />
+  - Rust <br />
+  - MicroPython <br />
+  - Toit <br />
+  - Assembly (x86, x86-64) <br />
