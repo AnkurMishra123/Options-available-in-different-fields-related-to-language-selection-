@@ -77,4 +77,19 @@ Data Science: <br />
   - JSON/YAML <br />
   - BeautifulSoup <br />
   - Hadoop (Big Data) <br />
-
+Machine Learning: <br />
+  - Python <br />
+  - R <br />
+  - ggplot2 <br />
+  - Matplotlib <br />
+  - Seaborn <br />
+  - Pandas <br />
+  - Numpy <br />
+  - Scipy <br />
+  - Scikit-Learn <br />
+  - Tensorflow <br />
+  - Keras <br />
+  - Pytorch <br />
+  - Dask <br />
+  - MATLAB <br />
+  - Octave <br />
