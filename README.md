@@ -42,62 +42,62 @@ Software Development:  <br />
     - Ruby <br />
     - Java <br />
     - C# <br />
-Cloud and Dev-Ops: <br />
-  Cloud Platform: <br />
-    - Amazon Web Services <br />
-    - Microsoft Azure <br />
-    - Google Cloud Platform <br />
-    - Alibaba Cloud <br />
-    - Oracle Cloud <br />
-    - IBM Cloud <br />
-    - DigitalOcean Cloud <br />
-    - Civo Cloud <br />
-  Containerization and Container Orchestration: <br />
-    - Docker <br />
-    - Podman <br />
-    - Buildx <br />
-    - Kubernetes <br />
-    - Amazon (AWS) <br />
-    - Google App Engine (GCP) <br />
-  Continuous Integration and Continuous Deployment: <br />
-    - Travis <br />
-    - GitHub Actions <br />
-    - CircleCI <br />
-    - GitLab CI <br />
-    - Jenkins <br />
-    - Chef <br />
-    - Puppet <br />
-Data Science: <br />
-  - PowerBI <br />
-  - R <br />
-  - Python <br />
-  - SQL <br />
-  - JSON/YAML <br />
-  - BeautifulSoup <br />
-  - Hadoop (Big Data) <br />
-Machine Learning: <br />
-  - Python <br />
-  - R <br />
-  - ggplot2 <br />
-  - Matplotlib <br />
-  - Seaborn <br />
-  - Pandas <br />
-  - Numpy <br />
-  - Scipy <br />
-  - Scikit-Learn <br />
-  - Tensorflow <br />
-  - Keras <br />
-  - Pytorch <br />
-  - Dask <br />
-  - MATLAB <br />
-  - Octave <br />
-Internet of Things: <br />
-  - NodeMCU <br />
-  - Arduino <br />
-  - Raspberry Pi <br />
-  - C/C++ <br />
-  - Gobot <br />
-  - Rust <br />
-  - MicroPython <br />
-  - Toit <br />
-  - Assembly (x86, x86-64) <br />
+  Cloud and Dev-Ops: <br />
+    Cloud Platform: <br />
+      - Amazon Web Services <br />
+      - Microsoft Azure <br />
+      - Google Cloud Platform <br />
+      - Alibaba Cloud <br />
+      - Oracle Cloud <br />
+      - IBM Cloud <br />
+      - DigitalOcean Cloud <br />
+      - Civo Cloud <br />
+    Containerization and Container Orchestration: <br />
+      - Docker <br />
+      - Podman <br />
+      - Buildx <br />
+      - Kubernetes <br />
+      - Amazon (AWS) <br />
+      - Google App Engine (GCP) <br />
+    Continuous Integration and Continuous Deployment: <br />
+      - Travis <br />
+      - GitHub Actions <br />
+      - CircleCI <br />
+      - GitLab CI <br />
+      - Jenkins <br />
+      - Chef <br />
+      - Puppet <br />
+  Data Science: <br />
+    - PowerBI <br />
+    - R <br />
+    - Python <br />
+    - SQL <br />
+    - JSON/YAML <br />
+    - BeautifulSoup <br />
+    - Hadoop (Big Data) <br />
+  Machine Learning: <br />
+    - Python <br />
+    - R <br />
+    - ggplot2 <br />
+    - Matplotlib <br />
+    - Seaborn <br />
+    - Pandas <br />
+    - Numpy <br />
+    - Scipy <br />
+    - Scikit-Learn <br />
+    - Tensorflow <br />
+    - Keras <br />
+    - Pytorch <br />
+    - Dask <br />
+    - MATLAB <br />
+    - Octave <br />
+  Internet of Things: <br />
+    - NodeMCU <br />
+    - Arduino <br />
+    - Raspberry Pi <br />
+    - C/C++ <br />
+    - Gobot <br />
+    - Rust <br />
+    - MicroPython <br />
+    - Toit <br />
+    - Assembly (x86, x86-64) <br />
